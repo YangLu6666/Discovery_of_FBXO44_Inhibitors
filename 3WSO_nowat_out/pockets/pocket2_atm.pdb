@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.1999
+HEADER 1  - Drug Score                        : 0.0430
+HEADER 2  - Number of alpha spheres           :    68
+HEADER 3  - Mean alpha-sphere radius          : 4.1852
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5103
+HEADER 5  - Mean B-factor of pocket residues  : 0.5381
+HEADER 6  - Hydrophobicity Score              : 15.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.4615
+HEADER 9  - Pocket volume (Monte Carlo)       : 701.8197
+HEADER 10 - Pocket volume (convex hull)       : 114.4367
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 32.6486
+HEADER 13 - Number of apolar alpha sphere     :    37
+HEADER 14 - Proportion of apolar alpha sphere : 0.5441
+ATOM   4084    O PRO A 253      -5.653 -68.339 -38.931  0.00  0.00           O 0
+ATOM   4083    C PRO A 253      -6.561 -67.985 -38.182  0.00  0.00           C 0
+ATOM   4070    O PRO A 252      -7.394 -68.600 -35.121  0.00  0.00           O 0
+ATOM   1033  OE1 GLN A  63      -1.262 -65.579 -31.276  0.00  0.00           O 0
+ATOM   1001  CZ2 TRP A  61      -4.342 -62.756 -29.792  0.00  0.00           C 0
+ATOM   1046    O PRO A  64      -2.583 -61.894 -35.664  0.75  6.43           O 0
+ATOM   1030   CB GLN A  63      -0.779 -62.675 -31.453  0.00  0.00           C 0
+ATOM   1063  CG2 VAL A  65      -5.467 -60.851 -33.066  0.00  0.00           C 0
+ATOM   1077   CB ALA A  66      -6.512 -60.842 -40.082  0.00  0.00           C 0
+ATOM   1002  CZ3 TRP A  61      -4.285 -63.630 -27.518  0.00  0.00           C 0
+ATOM   1034  NE2 GLN A  63      -0.952 -65.395 -29.062  0.00  0.00           N 0
+ATOM   1249  NH1 ARG A  75      -7.538 -66.350 -26.088  0.00  0.00           N 0
+ATOM   1003  CH2 TRP A  61      -4.532 -63.820 -28.891  0.00  0.00           C 0
+ATOM   1168  CE1 PHE A  71      -7.693 -63.676 -30.958  0.00  0.00           C 0
+ATOM   1166  CD1 PHE A  71      -8.386 -63.293 -32.099  0.00  0.00           C 0
+ATOM   1058   CA VAL A  65      -4.981 -60.301 -35.511  0.00  0.00           C 0
+ATOM   1062  CG1 VAL A  65      -7.374 -60.053 -34.502  0.00  0.00           C 0
+ATOM   4053  NH2 ARG A 251      -6.440 -72.014 -28.617  0.00  0.00           N 0
+ATOM   1247   NE ARG A  75      -8.975 -66.469 -27.887  0.77  3.28           N 0
+ATOM   4050   NE ARG A 251      -7.034 -72.700 -30.746  0.72  5.47           N 0
+ATOM   4073   CD PRO A 252      -9.967 -68.284 -32.322  0.00  0.00           C 0
+ATOM   1073    N ALA A  66      -5.891 -60.259 -37.782  0.69  3.28           N 0
+ATOM   4087   CD PRO A 253      -9.971 -67.816 -37.583  0.00  0.00           C 0
+ATOM   4081    N PRO A 253      -8.742 -68.284 -36.931  0.00  0.00           N 0
+ATOM   4086   CG PRO A 253      -9.695 -67.900 -39.080  0.00  0.00           C 0
+ATOM   1147  CG2 ILE A  70     -12.844 -63.868 -37.646  0.00  0.00           C 0
+ATOM   4072   CG PRO A 252      -9.785 -66.777 -32.409  0.00  0.00           C 0
+ATOM   1148  CD1 ILE A  70     -13.603 -62.153 -40.118  0.00  0.00           C 0
+ATOM   2530  CG2 THR A 154     -13.433 -66.487 -40.103  0.00  0.00           C 0
+ATOM   1083    N ASP A  67      -8.659 -59.436 -38.282  0.74  1.09           N 0
+ATOM   1087   CB ASP A  67     -11.045 -59.117 -38.979  0.00  0.00           C 0
+ATOM   1086    O ASP A  67     -10.519 -60.212 -36.172  0.54  1.07           O 0
+ATOM   1160    N PHE A  71     -12.217 -62.236 -34.586  0.00  0.00           N 0
+ATOM   1164   CB PHE A  71     -10.179 -61.913 -33.251  0.00  0.00           C 0
+ATOM   4071   CB PRO A 252      -9.009 -66.607 -33.697  0.00  0.00           C 0
+ATOM   4069    C PRO A 252      -8.458 -68.211 -35.606  0.00  0.00           C 0
+ATOM   1161   CA PHE A  71     -11.491 -62.709 -33.407  0.00  0.00           C 0
+TER
+END

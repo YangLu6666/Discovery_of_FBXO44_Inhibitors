@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0835
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9517
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6893
+HEADER 5  - Mean B-factor of pocket residues  : 0.7861
+HEADER 6  - Hydrophobicity Score              : -11.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.7867
+HEADER 10 - Pocket volume (convex hull)       : 4.0429
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   1886   NZ LYS A 115      -4.499 -85.419  -9.682  0.87  6.56           N 0
+ATOM   1884   CD LYS A 115      -2.192 -84.875 -10.466  0.00  0.00           C 0
+ATOM   1967   CB ASP A 120      -7.646 -80.514 -11.792  0.00  0.00           C 0
+ATOM   1885   CE LYS A 115      -3.167 -84.930  -9.280  0.00  0.00           C 0
+ATOM   1879   CA LYS A 115      -2.478 -85.981 -13.461  0.00  0.00           C 0
+ATOM   1918    O PHE A 117      -3.809 -83.205 -16.547  0.56  4.29           O 0
+ATOM   1857    O ARG A 114      -5.248 -85.522 -14.032  0.45  3.21           O 0
+ATOM   1937    C PRO A 118      -4.433 -80.230 -17.743  0.00  0.00           C 0
+ATOM   1938    O PRO A 118      -4.375 -79.002 -17.680  0.00  0.00           O 0
+ATOM   1936   CA PRO A 118      -3.219 -81.014 -18.308  0.00  0.00           C 0
+ATOM   1964   CA ASP A 120      -7.678 -81.433 -13.046  0.00  0.00           C 0
+ATOM   1963    N ASP A 120      -7.297 -80.717 -14.275  0.67  2.19           N 0
+ATOM   1951    C ASN A 119      -6.862 -81.331 -15.389  0.00  0.00           C 0
+ATOM   1881    O LYS A 115      -1.306 -85.060 -15.313  0.16  8.57           O 0
+ATOM   1952    O ASN A 119      -6.679 -82.548 -15.466  0.00  0.00           O 0
+TER
+END
